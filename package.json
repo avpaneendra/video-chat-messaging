@@ -1,0 +1,38 @@
+{
+  "name": "video-chat-messaging",
+  "title": "Video Chat | Messaging",
+  "version": "0.0.1",
+  "description": "Video Chat | Messaging",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthnaqvi/video-chat-messaging.git"
+  },
+  "keywords": [
+    "Video Chat | Messaging",
+    "server",
+    "realtime",
+    "messaging",
+    "websocket",
+    "streaming",
+    "webrtc",
+    "chat"
+  ],
+  "author": "Tauseef Naqvi <tauseef.naqvi786@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sthnaqvi/video-chat-messaging/issues"
+  },
+  "homepage": "https://github.com/sthnaqvi/video-chat-messaging#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "redis": "^2.8.0",
+    "symple": "^1.0.8",
+    "symple-client": "^1.0.2",
+    "symple-client-player": "^1.0.6"
+  }
+}
